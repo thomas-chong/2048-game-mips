@@ -3,6 +3,12 @@
 ## Introduction
 This project is completed for COMP2611 Computer Organization. 2048 was originally written in JavaScript and CSS. Now it is re-implemented with MIPS assembly.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59245065/145700255-c441687b-5f0b-47cd-ad0c-7c6b32a83d9f.png" width="200"/>  
+  <img src="https://user-images.githubusercontent.com/59245065/145700258-128393d8-6f8d-4453-8408-c5705952b197.png" width="200"/>  
+  <img src="https://user-images.githubusercontent.com/59245065/145700261-217460da-c8ce-40ba-afc1-5918b3cf78bd.png" width="200"/>  
+</p>
+
 ## Task Description
 |  Procedure | Input   | Results | Description |
 | ------------ | ------------ | ------------ | ------------ |
